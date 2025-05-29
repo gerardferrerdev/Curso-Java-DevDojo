@@ -24,5 +24,7 @@ public class Aula05EstruturasCondicionais {
              System.out.println("Categoria adulto");
          }
 
+        System.out.println("test github");
+
     }
 }
