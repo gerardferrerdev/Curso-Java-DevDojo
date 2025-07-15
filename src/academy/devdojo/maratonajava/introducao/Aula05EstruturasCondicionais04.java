@@ -26,6 +26,8 @@ public class Aula05EstruturasCondicionais04 {
             case 7:
                 System.out.println("Sab");
                 break;
+            default:
+                System.out.println("Opão invalida");
         }
     }
 }
